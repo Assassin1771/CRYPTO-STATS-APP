@@ -1,4 +1,4 @@
-# TweetWorld
+# CRYPTOWORLD
 A platform where users can view and track the information of World's Top Cryptocurrencies.
 <br>
 Information such as Current Price, % Change, Market Cap and Total Volume.
