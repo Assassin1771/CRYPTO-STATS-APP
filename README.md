@@ -4,6 +4,8 @@ A platform where users can view and track the information of World's Top Cryptoc
 Information such as Current Price, % Change, Market Cap and Total Volume.
 <br>
 The information is updated each second so that user can see changes in Real Time (if any).
+<br>
+Visit the Website : https://crypto-app-assassin1771.netlify.app/
 <!-- 
 Project Status
 (only necessary if incomplete)
@@ -34,7 +36,7 @@ npm start
 
 To Visit App:
 <br>
-https://crypto-app-assassin1771.netlify.app/
+http://localhost:3000
 <br>
 <br>
 <br>
